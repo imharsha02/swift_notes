@@ -15,3 +15,13 @@ Use the keyword 'var'
 var name = "Raju"
 name = "Krishna" // Changing the value after initializaion
 ```
+
+
+
+
+### Comparision equal-to
+it is == and not ===
+
+
+
+
