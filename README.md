@@ -25,14 +25,3 @@ it is == and not ===
 
 
 
-### Declaring multiple constants or variables on the same line
-#### Constatns
-```swift
-let a, b, c, d = 2;
-```
-All the constants are initialized with the same value.
-#### Variables
-```swift
-var a, b, c, d = 5;
-```
-All the variables are initialized with the same value.
